@@ -54,7 +54,7 @@ cd Real-Time-Shape-Detection-OpenCV
 Run program:
 
 ```
-python main.py
+python Obj_det.py
 ```
 
 Press **Q** to exit webcam window.
