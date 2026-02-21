@@ -73,19 +73,6 @@ Adjust these in the **Parameters window** while program runs.
 
 ---
 
-## 📁 Project Structure
-
-```
-Real-Time-Shape-Detection-OpenCV/
-│
-├── main.py
-├── README.md
-├── LICENSE
-└── .gitattributes
-```
-
----
-
 ## 🧠 How It Works
 
 1. Capture webcam frame
