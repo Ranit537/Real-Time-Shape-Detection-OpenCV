@@ -18,7 +18,7 @@ Real-time shape detection system using **Python** and **OpenCV** that identifies
 
 ## 🖥️ Demo Preview
 
-*(Add screenshot or GIF here later)*
+img_1.png
 
 ```
 ![Demo](demo.gif)
